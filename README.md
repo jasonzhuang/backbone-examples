@@ -1,4 +1,4 @@
-backbooe-examples
+backbone-examples
 =================
 
 examples for backbone
